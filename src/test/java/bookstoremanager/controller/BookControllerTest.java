@@ -29,7 +29,6 @@ public class BookControllerTest {
 
     public static final String BOOK_API_URL_PATH = "/api/v1/books";
 
-
     @Mock
     private BookService bookService;
 
